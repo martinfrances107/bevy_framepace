@@ -52,6 +52,7 @@ I intend to track the `main` branch of Bevy. PRs supporting this are welcome!
 
 | bevy | bevy_framepace            |
 |------|---------------------------|
+| 0.20 | 0.23                      |
 | 0.19 | 0.22                      |
 | 0.18 | 0.21                      |
 | 0.17 | 0.20                      |
@@ -85,5 +86,3 @@ the de-facto standard in the Rust ecosystem and there are very good reasons to i
 Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the
 work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any
 additional terms or conditions.
-
-
